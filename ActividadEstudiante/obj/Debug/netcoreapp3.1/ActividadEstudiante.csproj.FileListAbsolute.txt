@@ -1,0 +1,26 @@
+C:\Users\triba\Desktop\Programacion\ActividadEstudiante\ActividadEstudiante\bin\Debug\netcoreapp3.1\ActividadEstudiante.exe
+C:\Users\triba\Desktop\Programacion\ActividadEstudiante\ActividadEstudiante\bin\Debug\netcoreapp3.1\ActividadEstudiante.deps.json
+C:\Users\triba\Desktop\Programacion\ActividadEstudiante\ActividadEstudiante\bin\Debug\netcoreapp3.1\ActividadEstudiante.runtimeconfig.json
+C:\Users\triba\Desktop\Programacion\ActividadEstudiante\ActividadEstudiante\bin\Debug\netcoreapp3.1\ActividadEstudiante.runtimeconfig.dev.json
+C:\Users\triba\Desktop\Programacion\ActividadEstudiante\ActividadEstudiante\bin\Debug\netcoreapp3.1\ActividadEstudiante.dll
+C:\Users\triba\Desktop\Programacion\ActividadEstudiante\ActividadEstudiante\bin\Debug\netcoreapp3.1\ActividadEstudiante.pdb
+C:\Users\triba\Desktop\Programacion\ActividadEstudiante\ActividadEstudiante\obj\Debug\netcoreapp3.1\ActividadEstudiante.csprojAssemblyReference.cache
+C:\Users\triba\Desktop\Programacion\ActividadEstudiante\ActividadEstudiante\obj\Debug\netcoreapp3.1\ActividadEstudiante.AssemblyInfoInputs.cache
+C:\Users\triba\Desktop\Programacion\ActividadEstudiante\ActividadEstudiante\obj\Debug\netcoreapp3.1\ActividadEstudiante.AssemblyInfo.cs
+C:\Users\triba\Desktop\Programacion\ActividadEstudiante\ActividadEstudiante\obj\Debug\netcoreapp3.1\ActividadEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\triba\Desktop\Programacion\ActividadEstudiante\ActividadEstudiante\obj\Debug\netcoreapp3.1\ActividadEstudiante.dll
+C:\Users\triba\Desktop\Programacion\ActividadEstudiante\ActividadEstudiante\obj\Debug\netcoreapp3.1\ActividadEstudiante.pdb
+C:\Users\triba\Desktop\Programacion\ActividadEstudiante\ActividadEstudiante\obj\Debug\netcoreapp3.1\ActividadEstudiante.genruntimeconfig.cache
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActividadEstudiante\ActividadEstudiante\bin\Debug\netcoreapp3.1\ActividadEstudiante.exe
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActividadEstudiante\ActividadEstudiante\bin\Debug\netcoreapp3.1\ActividadEstudiante.deps.json
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActividadEstudiante\ActividadEstudiante\bin\Debug\netcoreapp3.1\ActividadEstudiante.runtimeconfig.json
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActividadEstudiante\ActividadEstudiante\bin\Debug\netcoreapp3.1\ActividadEstudiante.runtimeconfig.dev.json
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActividadEstudiante\ActividadEstudiante\bin\Debug\netcoreapp3.1\ActividadEstudiante.dll
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActividadEstudiante\ActividadEstudiante\bin\Debug\netcoreapp3.1\ActividadEstudiante.pdb
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActividadEstudiante\ActividadEstudiante\obj\Debug\netcoreapp3.1\ActividadEstudiante.csprojAssemblyReference.cache
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActividadEstudiante\ActividadEstudiante\obj\Debug\netcoreapp3.1\ActividadEstudiante.AssemblyInfoInputs.cache
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActividadEstudiante\ActividadEstudiante\obj\Debug\netcoreapp3.1\ActividadEstudiante.AssemblyInfo.cs
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActividadEstudiante\ActividadEstudiante\obj\Debug\netcoreapp3.1\ActividadEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActividadEstudiante\ActividadEstudiante\obj\Debug\netcoreapp3.1\ActividadEstudiante.dll
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActividadEstudiante\ActividadEstudiante\obj\Debug\netcoreapp3.1\ActividadEstudiante.pdb
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActividadEstudiante\ActividadEstudiante\obj\Debug\netcoreapp3.1\ActividadEstudiante.genruntimeconfig.cache
